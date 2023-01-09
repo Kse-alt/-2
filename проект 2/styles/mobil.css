@@ -1,0 +1,19 @@
+@media only screen and (max-width: 375px) {
+    .header {
+     padding: 0 15px;
+    }
+     
+    header .container{
+      position: relative;
+    }
+
+    .header-navigation{
+      display: none;
+      position: absolute;
+      width: 100%;
+
+    }
+
+
+
+}
